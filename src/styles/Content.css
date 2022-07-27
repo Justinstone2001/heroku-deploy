@@ -2,6 +2,9 @@
     border-style: solid;
     padding: 8px;
 }
+#about {
+    text-align: center;
+}
 
 .aboutTitle {
     font-family: garamond;
